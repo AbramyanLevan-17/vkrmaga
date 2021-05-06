@@ -1,0 +1,12 @@
+.app {
+  height: 100vh;
+  display: grid;
+  grid-template-rows: repeat(2, 1fr);
+  background-color: #F5F2E1;
+  &__up {
+
+  }
+  &__down {
+
+  }
+}
